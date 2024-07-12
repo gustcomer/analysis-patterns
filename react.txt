@@ -1,0 +1,3 @@
+What Contexts can you identify? What are the values in each context? What do these mean?
+What UI Components can you identify? (like buttons, etc)
+What View Components can you identify? (like pages, menus, etc)
